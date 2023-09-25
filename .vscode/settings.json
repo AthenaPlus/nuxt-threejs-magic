@@ -16,6 +16,7 @@
     "scss.lint.unknownAtRules": "ignore",
     "css.lint.unknownAtRules": "ignore",
     "eslint.workingDirectories": ["apps/", "packages/"],
-    "testing.automaticallyOpenPeekView": "never"
+    "testing.automaticallyOpenPeekView": "never",
+    "nuxt.isNuxtApp": false
   }
   
